@@ -1,0 +1,72 @@
+<section class="services" id="services">
+  <div class="container">
+    <div class="section-img">
+    <h4 class="section-title">What we offer</h4>
+     
+    <div class="service-grid">
+      
+      <div class="card">
+        <img src="running-neymar-fan-art-k0s541v69synkdmm.jpg" alt="">
+        <h3>Football Skills</h3>
+        <p>Dribbling, shooting, and passing are key coaching skills.</p>
+      </div>
+
+      <div class="card">
+        <img src="cristiano-ronaldo-portugal-holding-ball-ycu7rin7p3l0iuyk.jpg" alt="">
+        <h3>respected leadership
+        </h3>
+        <p>Proven tactics for dominating league competitions.</p>
+      </div>
+
+      <div class="card">
+        <img src="messi-iphone-n99aj6j6ubia5t4l.jpg" alt="">
+        <h3>Elite Playmaker</h3>
+        <p>Develop skills and mindset for modern football coaching.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="cta">
+  <h2 section-title>Ready to Level Up Your Game?</h2>
+  <a href="#" class="btn primary">Join ELmo Today</a>
+</section>
